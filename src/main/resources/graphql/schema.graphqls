@@ -23,7 +23,5 @@ schema
 type Query {
     foo(id: ID!): Foo
 }
-type Foo @key(fields: "id") {
-    id: ID!
-    name: String
-}
+
+
