@@ -95,3 +95,11 @@ Once the app has started you can explore the example schema by opening the Graph
 * [Spring GraphQL documentation](https://spring.io/projects/spring-graphql)
 * [Spring Boot documentation](https://docs.spring.io/spring-boot/docs/2.7.3/reference/htmlsingle/)
 * [Maven documentation](https://maven.apache.org/)
+
+create subgraph with java and spring for graphql :
+
+rover template use person-subgraph   --language java --template subgraph-java-spring-graphql
+
+graphs
+
+https://studio.apollographql.com/org/sushant-rathors-team-2/graphs
